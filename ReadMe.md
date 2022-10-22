@@ -5,4 +5,4 @@ description du projet git
 bonjour ca va
 
 ## local
-go
+ git
